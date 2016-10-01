@@ -19,7 +19,7 @@ ol {
  */
 .header {
   padding: 25px 0;
-  background: #192124;
+  background: #601048;
   margin: 0 0 10px;
   color: #D5DDE0;
   text-align: center;
@@ -30,7 +30,7 @@ ol {
   content: '';
   width: 15px;
   height: 15px;
-  background-color: #333948;
+  background-color: #601048;
   display: block;
   border-radius: 100%;
   box-shadow: 25px 0 0 #333948, 50px 0 0 #333948;
@@ -60,11 +60,11 @@ ol {
   font-weight: 900;
 }
 .header__text img {
-  width: 150px;
+  width: 200px;
 }
 
 .module.inbox-view {
-  background-color: #313744;
+  background-color: #601048;
   color: #D5DDE0;
   left: 0;
   width: 30%;
