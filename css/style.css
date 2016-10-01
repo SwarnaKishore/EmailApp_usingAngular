@@ -19,7 +19,7 @@ ol {
  */
 .header {
   padding: 25px 0;
-  background: #601048;
+  background: #333;
   margin: 0 0 10px;
   color: #D5DDE0;
   text-align: center;
@@ -64,7 +64,7 @@ ol {
 }
 
 .module.inbox-view {
-  background-color: #601048;
+  background-color: #333;
   color: #D5DDE0;
   left: 0;
   width: 30%;
@@ -162,7 +162,7 @@ ol {
   border-radius: 3px;
   padding: 6px 10px;
   color: #fff;
-  background: #dd1d18;
+  background: #601048;
 }
 .inbox__list-actions a:hover {
   background: #a6120d;
@@ -200,7 +200,7 @@ li.no-emails {
   border-radius: 3px;
   padding: 6px 10px;
   color: #fff;
-  background: #dd1d18;
+  background: #601048;
 }
 .email__reply:hover,
 .email__response a:hover,
